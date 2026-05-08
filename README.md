@@ -10,6 +10,10 @@ Download the latest version from the [Releases page](../../releases).
 - **Windows 10** or later
 - **WebView2 Runtime** — automatically installed on Windows 11; auto-installs on Windows 10 if needed
 
+
+### First Time Installing?
+
+Your browser or Windows may show a security prompt when downloading or running the app for the first time. This is normal for new software — follow the [Install Guide](INSTALL.md) for step-by-step instructions.
 ## Features
 
 - ✅ **Full GFM Support** — GitHub Flavored Markdown rendering (tables, strikethrough, task lists, and more)
@@ -36,3 +40,4 @@ This repository hosts releases only. Source code is maintained privately.
 ---
 
 **License:** See the individual release for details.
+
