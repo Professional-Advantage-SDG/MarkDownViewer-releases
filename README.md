@@ -1,5 +1,7 @@
 # MarkDownViewer
 
+[![Latest Release](https://img.shields.io/github/v/release/Professional-Advantage-SDG/MarkDownViewer-releases?label=latest%20release&color=blue)](../../releases) [![Downloads](https://img.shields.io/github/downloads/Professional-Advantage-SDG/MarkDownViewer-releases/total?label=downloads&color=green)](../../releases)
+
 MarkDownViewer is a lightweight, portable Markdown viewer for Windows. It renders GitHub Flavored Markdown with full support for tables, code blocks, task lists, Mermaid diagrams, and more.
 
 ## Download
